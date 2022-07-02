@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nicholasjr
-- 👀 I’m interested in Web Development and AI
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on Front End projects
 - 📫 Reach me at nicholasduadei14@gmail.com
