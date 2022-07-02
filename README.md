@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nicholasjr
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning node/express.js
 - 💞️ I’m looking to collaborate on Front End projects
 - 📫 Reach me at nicholasduadei14@gmail.com
 
