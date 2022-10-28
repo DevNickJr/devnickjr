@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/tech_nick_" target="blank"><img src="https://img.shields.io/twitter/follow/tech_nick_?logo=twitter&style=for-the-badge" alt="tech_nick_" /></a> </p>
 
-- 🔭 I’m currently working on **NDU-social-network-server**, a socia network webapp for my school, utilizing socket.io for instant messaging
+- 🔭 I’m currently working on **NDU-social-network-server**, the backend/server for a socia network webapp for my school, utilizing socket.io for instant messaging
 
 - 🌱 I’m currently learning **VueJs**
 
