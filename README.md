@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **frontend Projects (React/Vue) or Node.js Backend Projects**
 
-- 🤝 I’m looking for help with **anything web2**
+- 🤝 I’m also looking to help with **anything web development(web2)**
 
 - 💬 Ask me about **react, vue, nodeJs or anything Tech related**
 
