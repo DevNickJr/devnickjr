@@ -24,7 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/dev_nick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev_nick" height="30" width="40" /></a>
-<a href="https://twitter.com/tech_nick_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tech_nick_" height="30" width="40" /></a>
+<a href="https://twitter.com/Dev_NickJ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Dev_NickJ" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/duadei-nicholas-05957b18b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="duadei-nicholas-05957b18b" height="30" width="40" /></a>
 <a href="https://hashnode.com/@devnick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@devnick" height="30" width="40" /></a>
 </p>
