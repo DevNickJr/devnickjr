@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nicholasjr" alt="nicholasjr" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/Dev_NickJ" target="blank"><img src="https://img.shields.io/twitter/follow/tech_nick_?logo=twitter&style=for-the-badge" alt="Dev_NickJ" /></a> </p>
+<p align="left"> <a href="https://twitter.com/dev_nickj" target="blank"><img src="https://img.shields.io/twitter/follow/dev_nickj_?logo=twitter&style=for-the-badge" alt="Dev_NickJ" /></a> </p>
 
 - 🔭 I’m currently working on **NDU-social-network-server**, the backend/server for a socia network webapp for my school, utilizing socket.io for instant messaging
 
