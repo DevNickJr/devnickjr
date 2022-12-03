@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **NDU-social-network-server**, the backend/server for a socia network webapp for my school, utilizing socket.io for instant messaging
 
-- 🌱 I’m currently learning **VueJs**
+- 🌱 I’m currently taking a course on ALX (Software Engineering)
 
 - 👯 I’m looking to collaborate on **frontend Projects (React/Vue) or Node.js Backend Projects**
 
