@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on **NDU-social-network-server**, the backend/server for a socia network webapp for my school, utilizing socket.io for instant messaging
 
-- 🌱 I’m currently taking a course on ALX (Software Engineering)
+- 🌱 I’m currently learning React Native
 
-- 👯 I’m looking to collaborate on **frontend Projects (React/Vue) or Node.js Backend Projects**
+- 👯 I’m looking to collaborate on **Frontend Projects (React/NextJs) or Node.js Backend Projects**
 
 - 🤝 I’m also looking to help with **anything web development(web2)**
 
-- 💬 Ask me about **react, vue, nodeJs or anything Tech related**
+- 💬 Ask me about **react, NextJs, NodeJs/Express or anything Tech related**
 
 - 📫 How to reach me **nicholasduadei14@gmail.com**
 
