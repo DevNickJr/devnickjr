@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/Dev_NickJ" target="blank"><img src="https://img.shields.io/twitter/follow/Dev_NickJ?logo=twitter&style=for-the-badge" alt="Dev_NickJ" /></a> </p>
 
-- 🔭 I’m currently working on **NDU-social-network-server**, the backend/server for a socia network webapp for my school, utilizing socket.io for instant messaging
+- 🔭 I’m currently working on a personal project, a school management system for schools in my area
 
-- 🌱 I’m currently learning React Native
+- 🌱 Also avalaible for freelance or fullltime roles
 
-- 👯 I’m looking to collaborate on **Frontend Projects (React/NextJs) or Node.js Backend Projects**
+- 👯 I’m looking to collaborate on **Frontend Projects (React/NextJs/VueJs) or Node.js (Express/Nestjs) Backend Projects**
 
 - 🤝 I’m also looking to help with **anything web development(web2)**
 
-- 💬 Ask me about **react, NextJs, NodeJs/Express or anything Tech related**
+- 💬 Ask me about **react, NextJs, vueJs, NodeJs/Express, NestJs or anything Tech related**
 
 - 📫 How to reach me **nicholasduadei14@gmail.com**
 
